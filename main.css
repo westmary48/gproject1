@@ -1,14 +1,49 @@
 Body {
     background-color:white;
-    box-shadow:10px 10px 5px;
-    border: 1px solid lightblue;
-.container:
- flex direction: row;
- flex wrap: warp;
- justify content: center;
+
+}
+.container {
+ display: flex;
+ flex-wrap: wrap;
+}
+.ProductsforSale {
+width: 30%;    
+box-shadow:10px 10px 5px;
+border: 1px solid lightblue;
+margin-right: 30px;
+
 }
 
-.image
-    display:
-    margin-
+
+img {
+display: flex;
+justify-content: center;
+height: 320px;
+width: 320px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+margin-top: 10px;
+
 }
+
+.primary {
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  border: 1px solid lightblue;
+}
+.Available {
+    color: yellow;
+    background-color: gray;
+}
+.spec {
+  
+
+}
+
