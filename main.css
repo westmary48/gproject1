@@ -43,7 +43,28 @@ header {
     background-color: gray;
 }
 .spec {
-  
-
+  word-spacing: 0.25;  
 }
 
+ul{
+  list-style: none;
+}
+.mary {
+    margin-top: -15px;
+    
+}
+
+.zoe {
+    margin-top: -15px;
+    
+
+}
+.specsfooter {
+    margin-top: -20px;
+    margin-bottom: -20px
+}
+
+.pricingheader {
+    margon-top: -20px;
+    margin-bottom: -20px;
+}
